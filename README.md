@@ -55,7 +55,7 @@ findings before reporting them:
 - **Per-job async logging**, state files, and batch queue management
 - **Overnight Claude Code agent** for autonomous check proposals
 
-## ⚠️ Legal
+## Legal
 
 Only use on programs and targets you are explicitly authorized to test. Always stay
 within the defined scope of the program.
