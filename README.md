@@ -1,4 +1,4 @@
-# Bounty Assistant 🎯
+# Bounty Assistant Program
 
 An automated bug bounty reconnaissance and vulnerability scanning toolkit.
 
