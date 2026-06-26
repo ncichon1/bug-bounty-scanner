@@ -1,10 +1,10 @@
-# Bounty Assistant Program
+# Bounty Assistant 🎯
 
 An automated bug bounty reconnaissance and vulnerability scanning toolkit.
 
 ## Scanner Overview
 
-- **69 checks** spanning web, API, and Web3 attack surface
+- **72 checks** spanning web, API, and Web3 attack surface
 - **Async batch scanning** with concurrency limiting and automatic scope pull
 - **Multi-platform support**: Bugcrowd, Intigriti, YesWeHack (HackerOne deprioritized)
 - **Intelligent target scoring and ranking** with payout-based prioritization
